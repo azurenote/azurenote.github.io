@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>enseed.dev</title>
+        <link>http://enseed.dev/</link>
+        <description>Recent content on enseed.dev</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko-KR</language>
+        <lastBuildDate>Sun, 23 Jan 2022 00:37:22 +0900</lastBuildDate><atom:link href="http://enseed.dev/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

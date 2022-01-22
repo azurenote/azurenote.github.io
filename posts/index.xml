@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on enseed.dev</title>
+    <link>http://enseed.dev/posts/</link>
+    <description>Recent content in Posts on enseed.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:37:22 +0900</lastBuildDate><atom:link href="http://enseed.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>개발 블로그 다시 시작하기</title>
+      <link>http://enseed.dev/posts/my-first.post/</link>
+      <pubDate>Sun, 23 Jan 2022 00:37:22 +0900</pubDate>
+      
+      <guid>http://enseed.dev/posts/my-first.post/</guid>
+      <description>개발 블로그를 한동안 정리하지 않았고, 마지막 포스트를 올린 걸 확인해보니 2018년이었다. 머릿속을 스쳐지나가는 경험들을 가시적인 형태로 남기지 않아 곧 사라져 버리는 일이 잦았고 내게 경험이 경험치로 축적되지 않았다.
+그러니 원노트나 노션에 편린으로 남은 기록들을 다시 블로그의 형태로 정리하면서 복습하는 시간을 가지려고 한다. 새해 시작한 지도 벌써 3주가 지나갔다. 너무 어려운 목표를 세우지 말고 주 1회 포스트 올리기를 목표로 하자.</description>
+    </item>
+    
+  </channel>
+</rss>
