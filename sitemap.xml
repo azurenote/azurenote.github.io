@@ -2,36 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://enseed.dev/categories/</loc>
+  </url><url>
     <loc>http://enseed.dev/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/tags/netsh/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/tags/php/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/posts/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
   </url><url>
     <loc>http://enseed.dev/tags/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/tags/vscode/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/tags/wsl2/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/tags/xdebug/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/posts/wsl2-xdebug-netsh-proxy/</loc>
-    <lastmod>2022-01-25T22:48:01+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/posts/my-first.post/</loc>
-    <lastmod>2022-01-23T00:37:22+09:00</lastmod>
-  </url><url>
-    <loc>http://enseed.dev/categories/</loc>
   </url>
 </urlset>

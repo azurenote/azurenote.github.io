@@ -5,7 +5,6 @@
         <link>http://enseed.dev/</link>
         <description>Recent content on enseed.dev</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ko-KR</language>
-        <lastBuildDate>Tue, 25 Jan 2022 22:48:01 +0900</lastBuildDate><atom:link href="http://enseed.dev/index.xml" rel="self" type="application/rss+xml" />
+        <language>ko-KR</language><atom:link href="http://enseed.dev/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
